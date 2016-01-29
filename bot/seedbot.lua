@@ -220,7 +220,7 @@ function create_config( )
     "invite",
     "all",
     "leave_ban"
-    } S@hara6
+    } @hara6
     ,
     sudo_users = {110626080,103649648,111020322,0,tonumber(@danger1)},--Sudo users
     disabled_channels = {},
